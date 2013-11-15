@@ -16,7 +16,7 @@
     <!-- Artifact Configuration -->
     <groupId>org.jboss.arquillian.extension</groupId>
     <artifactId>arquillian-jrebel-parent</artifactId>
-    <version>1.0.0.Alpha1-SNAPSHOT</version>
+    <version>1.0.0.Alpha1.ITC2</version>
     <name>Arquillian Extension JRebel Parent</name>
     <packaging>pom</packaging>
     <url>http://www.jboss.org</url>
